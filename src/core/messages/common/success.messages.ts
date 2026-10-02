@@ -1,0 +1,16 @@
+export enum CommonSuccessMessages {
+  OPERATION_SUCCESS = 'Operation completed successfully',
+  DATA_RETRIEVED = 'Data retrieved successfully',
+  DATA_CREATED = 'Data created successfully',
+  DATA_UPDATED = 'Data updated successfully',
+  DATA_DELETED = 'Data deleted successfully',
+  SYSTEM_READY = 'System is ready',
+  CONNECTION_ESTABLISHED = 'Connection established successfully',
+  CONFIGURATION_LOADED = 'Configuration loaded successfully',
+  FILE_UPLOADED = 'File uploaded successfully',
+  FILE_DOWNLOADED = 'File downloaded successfully',
+  FILE_DELETED = 'File deleted successfully',
+  PROCESSING_COMPLETED = 'Processing completed successfully',
+  VALIDATION_PASSED = 'Validation passed successfully',
+  VERIFICATION_COMPLETED = 'Verification completed successfully',
+}
